@@ -1,8 +1,5 @@
-# Haloo
-
-Perkenalkan nama saya **Muhamad Arfa Alghiffari**.\
-
-Saya seorang **Frontend Web Developer Pemula**.\
-
-Jika kamu tertarik untuk berkenalan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-arfa-alghiffari-706419208/) ku ya.
-
+<p align="center">
+<a href="https://github.com/argf013">
+  <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=argf013&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
