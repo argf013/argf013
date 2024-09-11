@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=argf013&show_icons=true&theme=dark" alt="argf013" />
-
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=argf013.argf013" />
   
   <p align="middle">
